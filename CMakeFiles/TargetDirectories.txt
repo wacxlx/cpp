@@ -1,0 +1,3 @@
+/home/xlx/Desktop/cmake/CMakeFiles/rebuild_cache.dir
+/home/xlx/Desktop/cmake/CMakeFiles/edit_cache.dir
+/home/xlx/Desktop/cmake/CMakeFiles/main.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xlx/Desktop/cmake/build",
+  "command": "/bin/g++-9   -I/home/xlx/Desktop/cmake/head  -g   -o CMakeFiles/main.dir/realise/myint128.o -c /home/xlx/Desktop/cmake/realise/myint128.cpp",
+  "file": "/home/xlx/Desktop/cmake/realise/myint128.cpp"
+},
+{
+  "directory": "/home/xlx/Desktop/cmake/build",
+  "command": "/bin/g++-9   -I/home/xlx/Desktop/cmake/head  -g   -o CMakeFiles/main.dir/src/main.o -c /home/xlx/Desktop/cmake/src/main.cpp",
+  "file": "/home/xlx/Desktop/cmake/src/main.cpp"
+}
+]
