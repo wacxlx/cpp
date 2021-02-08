@@ -4,8 +4,8 @@
 #include <ctype.h>
 
 __int128_t int128::read(){
-    __int128_t x,f = 1;
-    fflush(stdin);
+    __int128_t x = 0,f = 1;
+   
     char ch = getchar();
 
     while(!isdigit(ch)&&ch!='-') ch = getchar();
@@ -22,7 +22,7 @@ void int128::print(__int128_t x){
 } 
 
 void int128::show(){
-    print(this->x);
+    int128::print(this->x);
 }
 
 int128 int128::operator+(int128& a){

@@ -5,13 +5,12 @@ int main(){
     int128 a , b , c;
     a.read();
     b.read();
-    c.read();
+    c = a * b;
 
-    a.show();
-    putchar('\n');
-    b.show();
     putchar('\n');
     c.show();
+
+    putchar('\n');
 
     // c.show();
     

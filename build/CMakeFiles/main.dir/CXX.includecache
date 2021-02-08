@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+../head/myint128.h
+
 /home/xlx/Desktop/cmake/realise/myint128.cpp
 myint128.h
 /home/xlx/Desktop/cmake/realise/myint128.h
@@ -15,12 +17,4 @@ algorithm
 -
 ctype.h
 -
-
-/home/xlx/Desktop/cmake/src/main.cpp
-myint128.h
-/home/xlx/Desktop/cmake/src/myint128.h
-cstdio
--
-
-head/myint128.h
 
